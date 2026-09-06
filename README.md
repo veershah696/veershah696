@@ -17,12 +17,14 @@
 - 🌐 **Web Development** — Building clean, responsive & interactive web applications.
 - ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML, CSS & Tailwind CSS.
 - 📱 **App Development** — Building cross-platform and Android applications with Flutter and Java.
+- 🎨 **UI/UX** — Turning designs into polished, pixel-perfect digital experiences
 - 📱 **Responsive Design** — Creating seamless experiences across every screen
 - 💡 **Problem Solving** – Turning complex coding challenges into clean, scalable, and efficient logic.
 - 🎓 **Continuous Learning**– Constantly exploring new frameworks and tools to stay ahead in web development.
 - 🛠️ **Design To Code**- Specializing in converting design files(like Figma or Adobe XD) into functional web pages.
 - 🚀 **Currently Building** — Real-world web applications and creative interfaces
 - 🤝 **Open To** — Collaborating on frontend, web & open-source projects
+- 🎓 **Continuous Learning** - Constantly Exploring new technologies, frameworks and development practices.
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
