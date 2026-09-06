@@ -3,11 +3,8 @@
 #👨‍💻 About Me
 
 🔭- I am a Web & App  who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
-
 👯- I'm always open to collaborating on innovative web development, mobile apps, AI/ML and open-source projects.
-
 🌱- I'm currently expanding my skills in Artificial Intelligence, Machine Learning Neural Networks, Deep Learning and advanced software architecture.
-
 💻- Intersting Fact: Except for the code , because git commit never lies! 😉
 
 🚀 Turning ideas and designs into fast, responsive, and engaging web & mobile experiences.
