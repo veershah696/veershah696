@@ -2,22 +2,21 @@
 
 #👨‍💻 About Me
 
-🔭- I am a  who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
+🔭- I am a Web & App  who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
 
-👯- I'm always open to collaborating on innovative web development and machine learning projects.
+👯- I'm always open to collaborating on innovative web development, mobile apps, AI/ML and open-source projects.
 
-🌱- I'm currently expanding my skills to Neural Networks, Deep Learning and advanced Frontend architecture.
+🌱- I'm currently expanding my skills in Artificial Intelligence, Machine Learning Neural Networks, Deep Learning and advanced software architecture.
 
 💻- Intersting Fact: Except for the code , because git commit never lies! 😉
 
-* Turning ideas and designs into fast, responsive, and engaging web experiences.
+🚀 Turning ideas and designs into fast, responsive, and engaging web & mobile experiences.
+👨‍💻 Web & App Developer Computer Engineering Student focused on building modern, scalable and user friendly applications.
 
-* I'm a Frontend Developer & Computer Engineering Student focused on building
-modern, responsive, and user-friendly web applications.
 
-- 🎨 **Frontend Development** — Building clean, responsive & interactive interfaces
-- ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML & CSS
-- 🧩 **UI/UX** — Turning designs into polished, pixel-perfect experiences
+- 🌐 **Web Development** — Building clean, responsive & interactive web applications.
+- ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML, CSS & Tailwind CSS.
+- 📱 **App Development** — Building cross-platform and Android applications with Flutter and Java.
 - 📱 **Responsive Design** — Creating seamless experiences across every screen
 - 💡 **Problem Solving** – Turning complex coding challenges into clean, scalable, and efficient logic.
 - 🎓 **Continuous Learning**– Constantly exploring new frameworks and tools to stay ahead in web development.
