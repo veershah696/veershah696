@@ -11,6 +11,7 @@
 💻- Intersting Fact: Except for the code , because git commit never lies! 😉
 
 🚀 Turning ideas and designs into fast, responsive, and engaging web & mobile experiences.
+
 👨‍💻 Web & App Developer Computer Engineering Student focused on building modern, scalable and user friendly applications.
 
 
