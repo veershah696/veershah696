@@ -2,7 +2,7 @@
 
 #👨‍💻 About Me
 
-🔭- I am a frontend developer who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
+🔭- I am a  who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
 
 👯- I'm always open to collaborating on innovative web development and machine learning projects.
 
