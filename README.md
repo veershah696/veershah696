@@ -4,9 +4,6 @@
 
 🔭- I am a Web & App  who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
 
-💻- Intersting Fact: Except for the code , beacuse git commit never lies! 😜
-
-
 
 - 🌐 **Web Development** — Building clean, responsive & interactive web applications.
 - ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML, CSS & Tailwind CSS.
