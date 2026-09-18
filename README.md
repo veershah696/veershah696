@@ -2,19 +2,24 @@
 
 #👨‍💻 About Me
 
-🔭- I am a Web & App  who loves bulding interactive web experiences using Javascript, React and next.js, while actively exploring AI/ML with python.
+🔭- I am a Web & App  who loves bulding interactive web experiences using Javascript, React and next.js,Flutter & Java, while exploring emrging technologies including  AI/ML with python.
 
 
-- 🌐 **Web Development** — Building clean, responsive & interactive web applications.
-- ⚛️ **Modern Web** — React.js, Next.js, JavaScript, HTML, CSS & Tailwind CSS.
-- 📱 **App Development** — Building cross-platform and Android applications with Flutter and Java.
-- 🎨 **UI/UX** — Turning designs into polished, pixel-perfect digital experiences
-- 📱 **Responsive Design** — Creating seamless experiences across every screen
-- 💡 **Problem Solving** – Turning complex coding challenges into clean, scalable, and efficient logic.
-- 🛠️ **Design To Code**- Specializing in converting design files(like Figma or Adobe XD) into functional web pages.
-- 🚀 **Currently Building** — Real-world web applications and creative interfaces
-- 🤝 **Open To** — Collaborating on frontend, web & open-source projects
-- 🎓 **Continuous Learning** - Constantly Exploring new technologies, frameworks and development practices.
+- 🌐 **Web Development** — Building clean, responsive & interactive web applications with modern technologies.
+- ⚛️ **Modern Frontend** - React.js, Next.js, Javascript, Typescript, HTML5, CSS3 & Tailwind CSS.
+- 📱 **App Development** -Developing Android and cross-platform applications using Java and Flutter.
+- 🎨 **UI/UX Development** - Converting ideas and designed into polished, intuitive and pixel-perfect interfaces.
+- 🛠️ **Design to Code** - Transforming Figma and other design concepts into functional, responsive web experiences.
+- 📱 **Responsive Development** - Creating applications that provide a consistent experince across mobile, tablet and desktop.
+- 🔗 **API & Backend Integration** — Connecting applications with REST APIs, databases and backend services to build complete solutions.
+- 🧩 **Reusable Components** — Building modular, reusable and maintainable components for scalable applications.
+- ⚡ **Performance & Optimization** — Improving application speed, responsiveness and overall user experience.
+- 💡 **Problem Solving** — Turning real-world requirements and complex problems into clean, efficient and scalable solutions.
+- 🤖 **AI/ML Exploration** - Exploring Machine Learning and AI with Python and integrating intelligent features into practical applications.
+- 🚀 **Currently Building** - Real-world web applications, mobile apps and creative digital experiences.
+- 🤝 **Open To** -Collaborating on web development, app development, open-source and innovative software projects.
+- 📚 **Continuous Learning** - Exploring new frameworks, technologies and development practices to become a better developer.
+  
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
