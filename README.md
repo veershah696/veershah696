@@ -17,7 +17,7 @@
 - 🤝 **Open To** -Collaborating on web development, app development, open-source and innovative software projects.
 - 📚 **Continuous Learning** - Exploring new frameworks, technologies and development practices to become a better developer.
 
-- I tersting fact: 😉😉 Not every bug needs to be fixed immediately. 😄
+- Intersting fact: 😉😉 Not every bug needs to be fixed immediately. 😄
   
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
