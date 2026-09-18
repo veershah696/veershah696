@@ -6,13 +6,10 @@
 
 
 - 🌐 **Web Development** — Building clean, responsive & interactive web applications with modern technologies.
-- ⚛️ **Modern Frontend** - React.js, Next.js, Javascript, Typescript, HTML5, CSS3 & Tailwind CSS.
 - 📱 **App Development** -Developing Android and cross-platform applications using Java and Flutter.
 - 🎨 **UI/UX Development** - Converting ideas and designed into polished, intuitive and pixel-perfect interfaces.
 - 🛠️ **Design to Code** - Transforming Figma and other design concepts into functional, responsive web experiences.
 - 📱 **Responsive Development** - Creating applications that provide a consistent experince across mobile, tablet and desktop.
-- 🔗 **API & Backend Integration** — Connecting applications with REST APIs, databases and backend services to build complete solutions.
-- 🧩 **Reusable Components** — Building modular, reusable and maintainable components for scalable applications.
 - ⚡ **Performance & Optimization** — Improving application speed, responsiveness and overall user experience.
 - 💡 **Problem Solving** — Turning real-world requirements and complex problems into clean, efficient and scalable solutions.
 - 🤖 **AI/ML Exploration** - Exploring Machine Learning and AI with Python and integrating intelligent features into practical applications.
