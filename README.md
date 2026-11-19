@@ -17,8 +17,7 @@
 - 🤝 **Open To** -Collaborating on web development, app development, open-source and innovative software projects.
 - 📚 **Continuous Learning** - Exploring new frameworks, technologies and development practices to become a better developer.
 
-- * 🐞 Fun fact: Some legacy errors don't crash the system; they just quietly wait for a specific ping to make sense again.
-  * 
+- Fun fact: System Note: Cache cleared, cookies deleted, yet one specific memory keeps bypassing the firewall.
   
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
