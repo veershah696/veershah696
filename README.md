@@ -17,7 +17,7 @@
 - 🤝 **Open To** -Collaborating on web development, app development, open-source and innovative software projects.
 - 📚 **Continuous Learning** - Exploring new frameworks, technologies and development practices to become a better developer.
 
-- Fun fact: Removing this orphan node breaks the entire tree, even though nothing points to it anymore.
+- Fun fact: A silent port doesn't mean the server is down; it just refuses to initiate the handshake."
   
 
 <img src="https://komarev.com/ghpvc/?username=veershah696&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
